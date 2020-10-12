@@ -1,6 +1,6 @@
 ---
 title: /resources
-layout: home
+layout: default
 permalink: /resources
 ---
 # Hello Hello
