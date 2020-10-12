@@ -1,3 +1,12 @@
+#D's Dev Notes
+
+* add favicon
+* accordion drop downs to preview posts on home md page (notion toggle-esque?)
+* pwd & back 'button' capabilities
+* tags per post
+
+---
+
 # jekyll-theme-console
 
 A jekyll theme with inspiration from linux consoles for hackers, developers and script kiddies.

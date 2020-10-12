@@ -3,17 +3,15 @@ title: /resources
 layout: home
 permalink: /resources
 ---
-# Hello Hello
+# Hello
 
-Stuff for you
+Stuff for you coming soon.
 
-Accordion boxes:
-
-- Security
--- CTFs
--- For Beginners
--- By Subfield
--- List of Conferences
-- Programs
--- High School
--- 
+* Security
+    * CTFs
+    * For Beginners
+    * By Subfield
+* List of Conferences
+* Programs
+* High School
+ 
