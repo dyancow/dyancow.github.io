@@ -1,3 +1,5 @@
+# Repo for D's personal [site](dyancow.github.io)
+
 # jekyll-theme-console
 
 A jekyll theme with inspiration from linux consoles for hackers, developers and script kiddies.
